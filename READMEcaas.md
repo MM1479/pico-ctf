@@ -3,6 +3,10 @@
 The given link leads to a cowsay website.
 Tried out different letters and numbers, and linux commands.
 
+<img width="465" alt="image" src="https://github.com/MM1479/pico-ctf/assets/148882111/10a7658f-8cb8-46c5-80ec-e54d772c392c">
+
+<img width="568" alt="image" src="https://github.com/MM1479/pico-ctf/assets/148882111/5a24f1e6-b06f-4240-b011-0e8c6b5bad24">
+
 Then using code injection entered 2 messages separated by a semicolon.
 
 <img width="187" alt="image" src="https://github.com/MM1479/pico-ctf/assets/148882111/01a6036c-db5f-4ece-adb3-3fb30b679f01">
